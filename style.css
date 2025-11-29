@@ -6,7 +6,8 @@ On your https://poll.ma.pe/overlay/<id>/ URL add ?customCss=https://example.com/
 Please keep the link to https://poll.ma.pe visible for a short period of time.
 */
 
-@import url(https://fonts.googleapis.com/css?family=Abel);
+/* @import url(https://fonts.googleapis.com/css?family=Abel); */
+@import url('https://fonts.googleapis.com/css2?family=Atma:wght@300;400;500;600;700&family=Delius+Swash+Caps&family=Dongle&family=Fredoka:wght@300..700&family=Tsukimi+Rounded&family=Zain:ital,wght@0,200;0,300;0,400;0,700;0,800;0,900;1,300;1,400&display=swap');
 
 /*
 * "custom" refers to the theme assigned to the poll element
@@ -22,7 +23,8 @@ Please keep the link to https://poll.ma.pe visible for a short period of time.
 	transition: opacity 1s;
 	padding: 10px;
 
-	font-family: Abel;
+	/* font-family: Abel; */
+	font-family: 'AtmaDirect', sans-serif;
 
 	/* Hide when not active */
 	opacity: 0;
