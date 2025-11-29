@@ -130,12 +130,12 @@ Please keep the link to https://poll.ma.pe visible for a short period of time.
 	left: 10px;
 }
 .custom .options li .bar {
-	background: #444;
+	background: #FFFFFF;
 	height: 5px;
 	margin-top: 5px;
 }
 .custom .options li .bar .bar-inner {
-	background: #fff;
+	background: #FFFFFF;
 	height: 100%;
 	width: 0;
 	transition: width 1s;
