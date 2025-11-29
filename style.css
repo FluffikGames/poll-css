@@ -41,7 +41,7 @@ Please keep the link to https://poll.ma.pe visible for a short period of time.
 	padding: 0 10px;
 }
 .custom .total, .custom .duration {
-	background: #FFFFFF;
+	background: #000000;
 	float: left;
 	width: 49%;
 	text-align: center;
