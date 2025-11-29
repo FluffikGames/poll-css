@@ -96,6 +96,8 @@ Please keep the link to https://poll.ma.pe visible for a short period of time.
 	padding-left: 55px;
 	font-size: 15px;
 }
+
+/* Question; */
 .custom .options li.question {
 	padding: 10px 20px;
 	white-space: normal;
