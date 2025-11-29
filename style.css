@@ -56,7 +56,7 @@ Please keep the link to https://poll.ma.pe visible for a short period of time.
 }
 .custom .total strong,
 .custom .duration strong {
-	color: #ffa;
+	color: #136F63;
 	font-size: 20px;
 	display: block;
 }
@@ -70,7 +70,7 @@ Please keep the link to https://poll.ma.pe visible for a short period of time.
 }
 .custom.finished .options li.highest,
 .custom.removing .options li.highest {
-	color: #2a7f9e;
+	color: #A93F55;
 	opacity: 1;
 }
 
