@@ -18,7 +18,7 @@ Please keep the link to https://poll.ma.pe visible for a short period of time.
 } */
 
 .custom {
-	background: #FFFFFF;
+	background: RGBA(255, 255, 255, 0.7);
 	color: #136F63;
 	width: 400px;
 	transition: opacity 1s;
@@ -36,14 +36,16 @@ Please keep the link to https://poll.ma.pe visible for a short period of time.
 	opacity: 1;
 }
 
+/* Box that holds 2 boxes: unique votes and time active */
 .custom .metaInfo {
-	border: 1px solid black;
-	background: #FFFFFF;
+	background: RGBA(255, 255, 255, 0.7);
 	overflow: hidden;
 	padding: 0 10px;
 }
+
 .custom .total, .custom .duration {
-	background: #FFFFFF;
+	background: RGBA(255, 255, 255, 0.7);
+	border: 1px solid black;
 	float: left;
 	width: 49%;
 	text-align: center;
