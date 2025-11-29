@@ -43,6 +43,7 @@ Please keep the link to https://poll.ma.pe visible for a short period of time.
 	padding: 0 10px;
 }
 
+/* each of the two small boxes: unique votes and time active */
 .custom .total, .custom .duration {
 	background: RGBA(255, 255, 255, 0.7);
 	border: 1px solid black;
